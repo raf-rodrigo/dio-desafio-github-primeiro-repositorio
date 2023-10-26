@@ -98,7 +98,7 @@ Exemplo:
 Exemplo | Valor Exemplo
 -------| ---------
 Ex 1 | Valor 1
-Ex 2 | Valo 2
+Ex 2 | Valor 2
 ~~~
 ##### Saída
 
