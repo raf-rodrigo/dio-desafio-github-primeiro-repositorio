@@ -1,11 +1,11 @@
-#Markdown
+# Markdown
 
-###O que é markdown?
+### O que é markdown?
 Markdown é uma sintaxe usada para padronizar e facilitar formatação de texto web, utilizada em aplicativos como __Slack__ e __GitHub__.Textos estilizados com **Markdown** são, na maioria dos casos, apenas textos com caracteres não-alfabéticos, como `#, \* e ![]()`, usados para configuração de títulos, listas, itálicos, negritos e inserção de imagem.
 
-###Lista Básica de Comandos
+### Lista Básica de Comandos
 
-####Titulação
+#### Titulação
 ~~~ 
     #Título 1 <h1>
     ##Título 2 <h2>
@@ -16,6 +16,11 @@ Markdown é uma sintaxe usada para padronizar e facilitar formatação de texto 
 ~~~
 Saída: 
 
-#Título 1
-##Título 2
-###Título 3
+# Título 1
+## Título 2
+### Título 3
+#### Título 4
+##### Título 5
+###### Título 6
+
+#### 
